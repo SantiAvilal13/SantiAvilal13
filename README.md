@@ -1,10 +1,10 @@
 <!-- =========================================================
-🌌 PERFIL README - SANTIAGO ÁVILA (Versión Visual Anime-Tech PRO)
+🌌 PERFIL README - SANTIAGO ÁVILA (Versión Anime-Tech PRO)
 ========================================================= -->
 
-<!-- 🎬 Banner ancho (100%) - versión que sí carga en GitHub -->
+<!-- 🎬 Banner ancho alojado en el propio repositorio -->
 <p align="center">
-  <img src="https://i.imgur.com/Eh1gY6n.gif" width="100%" alt="Anime Tech Banner" />
+  <img src="./assets/banner-anime.gif" alt="Anime tech banner" width="100%" />
 </p>
 
 <!-- ✨ Título animado -->
@@ -31,7 +31,7 @@
 🧠 **Ingeniero híbrido** que combina software, electrónica y diseño mecánico.  
 🔧 Me gusta crear soluciones donde el código y la estructura se complementan.  
 💭 Mi filosofía: *la tecnología es el puente entre la idea y la realidad.*  
-🎯 En búsqueda de integrar **IA + sistemas embebidos + simulación** en proyectos reales.
+🎯 Actualmente explorando la fusión entre **IA, sistemas embebidos y simulación**.
 
 ---
 
@@ -106,9 +106,12 @@
   <i>⭐ “La ingeniería no solo resuelve problemas, también crea posibilidades.”</i>
 </p>
 
+<!-- 👍 GIF del chico levantando el pulgar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding gif" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Thumbs up guy" />
 </p>
 
-<!-- 🐍 Serpiente de contribuciones (opcional con Platane/snk) -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/SantiAvilal13/SantiAvilal13/output/github-contribution-grid-snake.svg) -->
+<!-- 🐍 Serpiente de contribuciones -->
+<p align="center">
+  <img src="https://github.com/SantiAvilal13/SantiAvilal13/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
