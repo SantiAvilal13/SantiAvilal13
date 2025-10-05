@@ -1,69 +1,69 @@
 <!-- =========================================================
-🌌 PERFIL README - SANTIAGO ÁVILA (Versión Anime-Tech PRO)
+🌌 GITHUB PROFILE - SANTIAGO ÁVILA (Anime-Tech PRO – English Version)
 ========================================================= -->
 
-<!-- 🎬 Banner ancho alojado en el propio repositorio -->
+<!-- 🎬 Banner hosted in repository -->
 <p align="center">
-  <img src="./assets/banner-anime.gif" alt="Anime tech banner" width="100%" />
+  <img src="./assets/banner-anime.gif" alt="Cyber Anime Banner" width="100%" />
 </p>
 
-<!-- ✨ Título animado -->
+<!-- ✨ Animated title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Santiago+%C3%81vila;Ingenier%C3%ADa+de+Sistemas+y+Mecatr%C3%B3nica;Ciberseguridad%2C+Software+y+Dise%C3%B1o+Mec%C3%A1nico;Bienvenido+a+mi+Universo+de+Ingenier%C3%ADa" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi!+I'm+Santiago+%C3%81vila;Systems+and+Mechatronics+Engineering+Student;Cybersecurity%2C+Software+and+Mechanical+Design;Welcome+to+my+Engineering+Universe!" />
 </h1>
 
 <p align="center">
-  🎓 <b>Estudiante de Ingeniería de Sistemas y Mecatrónica</b> en la Pontificia Universidad Javeriana, Colombia.<br>
-  💡 Apasionado por la <b>innovación tecnológica</b>, el <b>desarrollo de software</b>, la <b>ciberseguridad</b> y el <b>diseño mecánico aplicado</b>.<br>
-  🚀 Enfocado en crear soluciones que integran <b>software, electrónica y mecánica</b> para resolver problemas reales.
+  🎓 <b>Systems and Mechatronics Engineering Student</b> at Pontificia Universidad Javeriana, Colombia.<br>
+  💡 Passionate about <b>technological innovation</b>, <b>software development</b>, <b>cybersecurity</b>, and <b>applied mechanical design</b>.<br>
+  🚀 Focused on creating solutions that integrate <b>software, electronics, and mechanics</b> to solve real-world challenges.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SantiAvilal13&label=Visitas&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/SantiAvilal13?label=Seguidores&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SantiAvilal13&label=Profile+Views&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/SantiAvilal13?label=Followers&style=flat-square&color=blue" />
   <img src="https://img.shields.io/github/stars/SantiAvilal13?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow" />
 </p>
 
 ---
 
-## 🌌 Sobre mí
+## 🌌 About Me
 
-🧠 **Ingeniero híbrido** que combina software, electrónica y diseño mecánico.  
-🔧 Me gusta crear soluciones donde el código y la estructura se complementan.  
-💭 Mi filosofía: *la tecnología es el puente entre la idea y la realidad.*  
-🎯 Actualmente explorando la fusión entre **IA, sistemas embebidos y simulación**.
+🧠 A **hybrid engineer** who blends software, electronics, and mechanical design.  
+🔧 I love building solutions where code and structure complement each other.  
+💭 My philosophy: *technology is the bridge between imagination and reality.*  
+🎯 Currently exploring the fusion of **AI, embedded systems, and simulation**.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 💻 Proyecto | Descripción | Tecnologías |
+| 💻 Project | Description | Technologies |
 |-------------|-------------|--------------|
-| ⚓ **[Regata Online](https://github.com/SantiAvilal13/RegataOnline)** | Juego multijugador de regatas en línea con Spring Boot (MVC → REST/SPA) y vistas Thymeleaf. Gestión de jugadores, barcos y mapas en tiempo real. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
-| 🏟️ **[Spottivo](https://github.com/SantiAvilal13/Spottivo)** | App Android Jetpack Compose (Kotlin) para conectar deportistas con canchas y eventos. Arquitectura MVVM, repositorios locales y control de permisos. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) |
-| 🌐 **[CodeQuest](https://github.com/SantiAvilal13/CodeQuest)** | Landing page educativa con HTML, CSS y JS para enseñar programación de forma interactiva. | ![HTML](https://img.shields.io/badge/HTML-E44D26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🚲 **VTH (Vehículo de Tracción Humana)** | Diseño y simulación en ANSYS de vehículo sostenible para transporte de alimentos rurales. | ![ANSYS](https://img.shields.io/badge/ANSYS-FCD000?logo=ansys&logoColor=black) ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
+| ⚓ **[Regata Online](https://github.com/SantiAvilal13/RegataOnline)** | Online multiplayer regatta game built with Spring Boot (MVC → REST/SPA) and Thymeleaf views. Manages players, boats, and maps in real time. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
+| 🏟️ **[Spottivo](https://github.com/SantiAvilal13/Spottivo)** | Android app (Jetpack Compose – Kotlin) that connects athletes with local sports venues and events. Implements MVVM architecture and permission control. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) |
+| 🌐 **[CodeQuest](https://github.com/SantiAvilal13/CodeQuest)** | Educational landing page built with HTML, CSS, and JS, designed to teach programming interactively. | ![HTML](https://img.shields.io/badge/HTML-E44D26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 🚲 **HPV – Human Powered Vehicle** | Mechanical design and ANSYS simulation of a sustainable vehicle for first-mile food transportation in rural areas. | ![ANSYS](https://img.shields.io/badge/ANSYS-FCD000?logo=ansys&logoColor=black) ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
 
 </div>
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,js,react,html,css,python,cpp,postgres,mysql,git,maven,idea,vscode,ansys,matlab,solidworks&perline=9" />
 </p>
 
 <details>
-  <summary>💡 Más herramientas</summary>
-  • JPA / Hibernate • REST / JSON • MapStruct • Thymeleaf • H2 • GitHub Actions • CI/CD básico • UX/UI • Testing con JUnit  
+  <summary>💡 More Tools</summary>
+  • JPA / Hibernate • REST / JSON • MapStruct • Thymeleaf • H2 • GitHub Actions • CI/CD basics • UX/UI • JUnit Testing  
 </details>
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiAvilal13&show_icons=true&theme=tokyonight&count_private=true" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🏆 Logros
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SantiAvilal13&theme=dracula&no-frame=true&row=1&column=6" />
@@ -84,35 +84,34 @@
 
 ---
 
-## 🚀 Actualmente trabajando en
+## 🔭 Currently Working On
 
-- 🔐 Certificación en **Ciberseguridad y Redes Seguras**  
-- ⚓ Refactor REST y control de partidas en **Regata Online**  
-- 📱 Optimización de interfaz en **Spottivo**  
-- 🧮 Simulación estructural del **VTH**
+- 🔐 Certification in **Cybersecurity and Secure Networks**  
+- ⚓ REST refactor and match control for **Regata Online**  
+- 📱 UI/UX optimization for **Spottivo**  
+- 🧮 Structural simulation of the **HPV project**
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:santiagoavila@javeriana.edu.co"><img src="https://img.shields.io/badge/Correo%20Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:santiagoavila@javeriana.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/santiago-avila-09971037a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ “La ingeniería no solo resuelve problemas, también crea posibilidades.”</i>
+  <i>⭐ "Engineering not only solves problems — it creates possibilities."</i>
 </p>
 
-<!-- 👍 GIF del chico levantando el pulgar -->
+<!-- 👍 Thumbs up anime GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="200" alt="Thumbs up guy" />
 </p>
 
-<!-- 🐍 Serpiente de contribuciones -->
+<!-- 🐍 Contribution Snake -->
 <p align="center">
   <img src="https://github.com/SantiAvilal13/SantiAvilal13/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=purple&color_dots=pink" alt="snake animation" />
-
 </p>
