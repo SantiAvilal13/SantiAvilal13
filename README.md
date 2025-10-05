@@ -49,8 +49,8 @@ Diseño y simulación estructural en **ANSYS**, con enfoque en reducción de pé
 ---
 
 ## 🌐 Conecta conmigo
-- 📧 **Correo:** [santiagoavila@example.com](mailto:santiagoavila@example.com)
-- 💼 **LinkedIn:** [linkedin.com/in/santiagoavila](https://linkedin.com/in/santiagoavila)
+- 📧 **Correo:** [santiagoavila@example.com](santiagoavila@javeriana.edu.co)
+- 💼 **LinkedIn:** [[linkedin.com/in/santiagoavila](https://linkedin.com/in/santiagoavila](https://www.linkedin.com/in/santiago-avila-09971037a/))
 - 🌍 **Portafolio personal:** próximamente...
 
 ---
