@@ -113,5 +113,6 @@
 
 <!-- 🐍 Serpiente de contribuciones -->
 <p align="center">
-  <img src="https://github.com/SantiAvilal13/SantiAvilal13/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/SantiAvilal13/SantiAvilal13/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=purple&color_dots=pink" alt="snake animation" />
+
 </p>
