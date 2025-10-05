@@ -1,15 +1,15 @@
 <!-- =========================================================
-🌌 PERFIL README - SANTIAGO ÁVILA (Versión Innovadora 2025)
+💫 PERFIL README - SANTIAGO ÁVILA (Versión Cinemática Anime 2025)
 ========================================================= -->
 
-<!-- ✨ Cabecera animada tipo anime-tecnología -->
+<!-- 🎬 Banner ancho estilo anime tecnológico -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f5/11/f0f5115a2fcfb60ee6851fbaa9ec1b3e.gif" width="380" alt="Anime tech coding">
+  <img src="https://i.pinimg.com/originals/30/4e/5e/304e5e960b364f9b830dd04b94b3c16b.gif" width="100%" alt="Anime Matrix Banner - Welcome" />
 </p>
 
 <!-- ✨ Título animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Santiago+%C3%81vila;Ingenier%C3%ADa+de+Sistemas+y+Mecatr%C3%B3nica;Apasionado+por+la+innovaci%C3%B3n+y+la+tecnolog%C3%ADa;Ciberseguridad%2C+Software+y+Dise%C3%B1o+Mec%C3%A1nico" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Santiago+%C3%81vila;Ingenier%C3%ADa+de+Sistemas+y+Mecatr%C3%B3nica;Ciberseguridad%2C+Software+y+Dise%C3%B1o+Mec%C3%A1nico;Bienvenido+a+mi+Universo+de+Ingenier%C3%ADa" />
 </h1>
 
 <p align="center">
@@ -26,25 +26,25 @@
 
 ---
 
-## 🌐 Acerca de mí
+## 🌌 Sobre mí
 
-🧠 Me defino como un **ingeniero híbrido** entre lo digital y lo mecánico.  
-🔧 Me encanta construir desde el código, el diseño estructural y la experimentación.  
-🎯 Busco unir la **precisión mecánica** con la **creatividad del software**.  
-🧩 Mi meta: desarrollar proyectos que mezclen **IA, simulación y sistemas embebidos**.
+🧠 **Ingeniero híbrido** que combina software, electrónica y diseño mecánico.  
+🔧 Me gusta crear soluciones donde el código y la estructura se complementan.  
+💭 Mi filosofía: *la tecnología es el puente entre la idea y la realidad.*  
+🎯 Actualmente explorando la fusión entre **IA, sistemas embebidos y simulación**.
 
 ---
 
-## 🚀 Proyectos que impulsan mi aprendizaje
+## 🚀 Proyectos Principales
 
 <div align="center">
 
 | 💻 Proyecto | Descripción | Tecnologías |
 |-------------|-------------|--------------|
 | ⚓ **[Regata Online](https://github.com/SantiAvilal13/RegataOnline)** | Juego multijugador de regatas en línea con Spring Boot (MVC → REST/SPA) y vistas Thymeleaf. Gestión de jugadores, barcos y mapas en tiempo real. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
-| 🏟️ **[Spottivo](https://github.com/SantiAvilal13/Spottivo)** | App Android Jetpack Compose (Kotlin) para conectar deportistas con canchas y eventos. Arquitectura MVVM y permisos de cámara/localización. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) |
-| 🌐 **[CodeQuest](https://github.com/SantiAvilal13/CodeQuest)** | Landing page educativa con HTML, CSS y JS enfocada en enseñar programación de forma interactiva. | ![HTML](https://img.shields.io/badge/HTML-E44D26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🚲 **VTH (Vehículo de Tracción Humana)** | Diseño y simulación en ANSYS de vehículo sostenible para transporte de alimentos. Enfoque en reducción de pérdidas poscosecha. | ![ANSYS](https://img.shields.io/badge/ANSYS-FCD000?logo=ansys&logoColor=black) ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
+| 🏟️ **[Spottivo](https://github.com/SantiAvilal13/Spottivo)** | App Android Jetpack Compose (Kotlin) para conectar deportistas con canchas y eventos. Arquitectura MVVM, repositorios locales y permisos. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) |
+| 🌐 **[CodeQuest](https://github.com/SantiAvilal13/CodeQuest)** | Landing page educativa con HTML, CSS y JS para enseñar programación con animaciones interactivas. | ![HTML](https://img.shields.io/badge/HTML-E44D26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 🚲 **VTH (Vehículo de Tracción Humana)** | Diseño y simulación en ANSYS de vehículo sostenible para transporte de alimentos en zonas rurales. | ![ANSYS](https://img.shields.io/badge/ANSYS-FCD000?logo=ansys&logoColor=black) ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
 
 </div>
 
@@ -57,26 +57,26 @@
 </p>
 
 <details>
-  <summary>💡 Ver más herramientas</summary>
-  • JPA / Hibernate • REST / JSON • Thymeleaf • H2 • MapStruct • GitHub Actions • Testing JUnit • Diseño UX/UI
+  <summary>💡 Más herramientas</summary>
+  • JPA / Hibernate • REST / JSON • MapStruct • Thymeleaf • H2 • GitHub Actions • CI/CD básico • UX/UI Design • JUnit Testing
 </details>
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+## 📊 Mis estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiAvilal13&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiAvilal13&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiAvilal13&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiAvilal13&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiAvilal13&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiAvilal13&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-## 🏆 Logros y Actividades
+## 🏆 Logros
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SantiAvilal13&theme=dracula&no-frame=true&row=1&column=6" />
@@ -84,16 +84,16 @@
 
 ---
 
-## 🛰️ Actualmente trabajando en
+## 🔭 Actualmente trabajando en
 
-- 🔐 Certificación en **Ciberseguridad y Redes Seguras**
-- ⚓ Optimización y control de movimiento en **Regata Online**
-- 📱 Mejoras UI/UX en **Spottivo**
-- 🧮 Diseño mecánico del **VTH (Fase de validación y simulación)**
+- 🔐 Certificación en **Ciberseguridad y Redes Seguras**  
+- ⚓ Arquitectura REST en **Regata Online**  
+- 📱 UX y rendimiento en **Spottivo**  
+- 🧮 Simulación estructural del **VTH**
 
 ---
 
-## 🌌 Conecta conmigo
+## 🌐 Conecta conmigo
 
 <p align="center">
   <a href="mailto:santiagoavila@javeriana.edu.co"><img src="https://img.shields.io/badge/Correo%20Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -103,12 +103,12 @@
 ---
 
 <p align="center">
-  💬 <i>"La ingeniería no solo resuelve problemas, también crea posibilidades."</i>
+  <i>⭐ "La ingeniería no solo resuelve problemas, también crea posibilidades."</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="220" alt="Tech animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding gif" />
 </p>
 
-<!-- 🌈 Serpiente de contribuciones (puedes activarla con Platane/snk) -->
+<!-- 🐍 Serpiente de contribuciones (opcional con Platane/snk) -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/SantiAvilal13/SantiAvilal13/output/github-contribution-grid-snake.svg) -->
