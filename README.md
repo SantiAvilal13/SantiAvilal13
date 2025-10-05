@@ -108,7 +108,7 @@
 
 <!-- 👍 GIF del chico levantando el pulgar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Thumbs up guy" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFka2dteDlrNHV4aDRlYzFvazRzazI5cnB5cmJ6NjFjdGhtZ3E1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TilmLMmWrRYYHjLfub/giphy.gif" width="200" alt="Thumbs up guy" />
 </p>
 
 <!-- 🐍 Serpiente de contribuciones -->
