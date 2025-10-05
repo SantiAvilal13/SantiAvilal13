@@ -1,10 +1,10 @@
 <!-- =========================================================
-🌌 PERFIL README - SANTIAGO ÁVILA (Versión Final Innovadora 2025)
+🌌 PERFIL README - SANTIAGO ÁVILA (Versión Innovadora 2025)
 ========================================================= -->
 
-<!-- 🌈 Banner ancho anime-tech -->
+<!-- ✨ Cabecera animada tipo anime-tecnología -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b3/dc/ea/b3dceae9a8b2e4cdd249715de823da15.gif" width="100%" alt="Banner anime tech" />
+  <img src="https://i.pinimg.com/originals/f0/f5/11/f0f5115a2fcfb60ee6851fbaa9ec1b3e.gif" width="380" alt="Anime tech coding">
 </p>
 
 <!-- ✨ Título animado -->
@@ -28,23 +28,23 @@
 
 ## 🌐 Acerca de mí
 
-🧠 Me considero un **ingeniero híbrido** entre lo digital y lo mecánico.  
-🔧 Me apasiona construir desde el código, el diseño estructural y la simulación.  
-🎯 Mi enfoque está en unir la **precisión de la ingeniería mecánica** con la **creatividad del software**.  
-⚙️ Actualmente busco integrar **IA, sistemas embebidos y simulación** para crear proyectos con impacto real.
+🧠 Me defino como un **ingeniero híbrido** entre lo digital y lo mecánico.  
+🔧 Me encanta construir desde el código, el diseño estructural y la experimentación.  
+🎯 Busco unir la **precisión mecánica** con la **creatividad del software**.  
+🧩 Mi meta: desarrollar proyectos que mezclen **IA, simulación y sistemas embebidos**.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos que impulsan mi aprendizaje
 
 <div align="center">
 
 | 💻 Proyecto | Descripción | Tecnologías |
 |-------------|-------------|--------------|
 | ⚓ **[Regata Online](https://github.com/SantiAvilal13/RegataOnline)** | Juego multijugador de regatas en línea con Spring Boot (MVC → REST/SPA) y vistas Thymeleaf. Gestión de jugadores, barcos y mapas en tiempo real. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
-| 🏟️ **[Spottivo](https://github.com/SantiAvilal13/Spottivo)** | App Android Jetpack Compose (Kotlin) para conectar deportistas con canchas y eventos. Arquitectura MVVM, repositorios locales y control de permisos. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) |
-| 🌐 **[CodeQuest](https://github.com/SantiAvilal13/CodeQuest)** | Landing page educativa con HTML, CSS y JavaScript, diseñada para enseñar programación de forma interactiva con animaciones y componentes dinámicos. | ![HTML](https://img.shields.io/badge/HTML-E44D26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🚲 **VTH (Vehículo de Tracción Humana)** | Diseño y simulación en ANSYS de vehículo sostenible para transporte de alimentos. Enfoque en reducción de pérdidas poscosecha (primera milla). | ![ANSYS](https://img.shields.io/badge/ANSYS-FCD000?logo=ansys&logoColor=black) ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
+| 🏟️ **[Spottivo](https://github.com/SantiAvilal13/Spottivo)** | App Android Jetpack Compose (Kotlin) para conectar deportistas con canchas y eventos. Arquitectura MVVM y permisos de cámara/localización. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) |
+| 🌐 **[CodeQuest](https://github.com/SantiAvilal13/CodeQuest)** | Landing page educativa con HTML, CSS y JS enfocada en enseñar programación de forma interactiva. | ![HTML](https://img.shields.io/badge/HTML-E44D26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 🚲 **VTH (Vehículo de Tracción Humana)** | Diseño y simulación en ANSYS de vehículo sostenible para transporte de alimentos. Enfoque en reducción de pérdidas poscosecha. | ![ANSYS](https://img.shields.io/badge/ANSYS-FCD000?logo=ansys&logoColor=black) ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
 
 </div>
 
@@ -57,13 +57,13 @@
 </p>
 
 <details>
-  <summary>💡 Más herramientas</summary>
-  • JPA / Hibernate • REST / JSON • Thymeleaf • H2 • MapStruct • GitHub Actions • JUnit • UX/UI • CI/CD básico
+  <summary>💡 Ver más herramientas</summary>
+  • JPA / Hibernate • REST / JSON • Thymeleaf • H2 • MapStruct • GitHub Actions • Testing JUnit • Diseño UX/UI
 </details>
 
 ---
 
-## 📊 Mis estadísticas
+## 📊 Mis estadísticas en GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiAvilal13&show_icons=true&theme=radical&count_private=true" />
@@ -84,16 +84,16 @@
 
 ---
 
-## 🔭 Actualmente trabajando en
+## 🛰️ Actualmente trabajando en
 
-- 🔐 Certificación en **Ciberseguridad y Redes Seguras**  
-- ⚓ Refactorización REST y control de partidas en **Regata Online**  
-- 📱 Optimización de interfaz y rendimiento en **Spottivo**  
-- 🧮 Simulación estructural y validación de diseño en **VTH**
+- 🔐 Certificación en **Ciberseguridad y Redes Seguras**
+- ⚓ Optimización y control de movimiento en **Regata Online**
+- 📱 Mejoras UI/UX en **Spottivo**
+- 🧮 Diseño mecánico del **VTH (Fase de validación y simulación)**
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌌 Conecta conmigo
 
 <p align="center">
   <a href="mailto:santiagoavila@javeriana.edu.co"><img src="https://img.shields.io/badge/Correo%20Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -103,12 +103,12 @@
 ---
 
 <p align="center">
-  <i>⭐ "La ingeniería no solo resuelve problemas, también crea posibilidades."</i>
+  💬 <i>"La ingeniería no solo resuelve problemas, también crea posibilidades."</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFka2dteDlrNHV4aDRlYzFvazRzazI5cnB5cmJ6NjFjdGhtZ3E1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TilmLMmWrRYYHjLfub/giphy.gif" width="220" alt="Code animation" />
+  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="220" alt="Tech animation">
 </p>
 
-<!-- 🐍 Serpiente de contribuciones (opcional, activar con Platane/snk) -->
+<!-- 🌈 Serpiente de contribuciones (puedes activarla con Platane/snk) -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/SantiAvilal13/SantiAvilal13/output/github-contribution-grid-snake.svg) -->
