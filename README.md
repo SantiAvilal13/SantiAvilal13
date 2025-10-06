@@ -14,7 +14,7 @@
 
 <p align="center">
   🎓 <b>Systems and Mechatronics Engineering Student</b> at Pontificia Universidad Javeriana, Colombia.<br>
-  💡 Passionate about <b>technological innovation</b>, <b>software development</b>, <b>cybersecurity</b>, and <b>applied mechanical design</b>.<br>
+  💡 Passionate about <b>technological innovation</b>, <b>software development</b>, <b>cybersecurity</b>, <b>Artificial Intelligence</b>, and <b>applied mechanical design</b>.<br>
   🚀 Focused on creating solutions that integrate <b>software, electronics, and mechanics</b> to solve real-world challenges.
 </p>
 
