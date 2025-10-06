@@ -9,7 +9,7 @@
 
 <!-- ✨ Animated title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi!+I'm+Santiago+%C3%81vila;Systems+and+Mechatronics+Engineering+Student;Cybersecurity%2C+Software+and+Mechanical+Artificial Intelligence+Design;Welcome+to+my+Engineering+Universe!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi!+I'm+Santiago+%C3%81vila;Systems+and+Mechatronics+Engineering+Student;Cybersecurity%2C+Software+and+Mechanical+Design;Welcome+to+my+Engineering+Universe!" />
 </h1>
 
 <p align="center">
