@@ -2,10 +2,7 @@
 🌌 GITHUB PROFILE - SANTIAGO ÁVILA (Anime-Tech PRO – English Version)
 ========================================================= -->
 
-<!-- 🎬 Banner hosted in repository -->
-<p align="center">
-  <img src="./assets/banner-anime.gif" alt="Cyber Anime Banner" width="100%" />
-</p>
+
 
 <!-- ✨ Animated title -->
 <h1 align="center">
